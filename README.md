@@ -1,6 +1,6 @@
 # book-search
 
-![Screenshot 2022-08-07 204815](https://user-images.githubusercontent.com/102101481/183318810-d04833ea-1c19-4eb2-966d-d1180d3aa9db.png)
+![Screenshot 2022-08-16 154445](https://user-images.githubusercontent.com/102101481/184970353-4db94a12-31e0-430e-bf45-5675f25b1fcb.png)
 
 ##  Project Description
 This app allows users to search for books using Google Books API with GraphQL API. 
