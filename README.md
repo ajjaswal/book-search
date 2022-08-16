@@ -24,7 +24,7 @@ This app allows users to search for books using Google Books API with GraphQL AP
   Use npm install to download the correct packages.
   
   ## Usage
-  The program is used by accessing the site at https://ajjaswal.github.io/book-search/ .  
+  The program is used by accessing the site at https://graphql-google-book-search.herokuapp.com/ .  
   
   ## License
 
